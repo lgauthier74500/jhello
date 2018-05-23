@@ -1,4 +1,4 @@
-FROM java:7
+FROM java:7.1
 
 COPY HelloWord.java /
 
